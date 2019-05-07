@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="qs_text_title">#ffe0e0e0</color>
+    <color name="divider_color">#20ffffff</color>
+	<color name="gary" >#ECECEC</color>
+    <color name="black" >#000000</color>
+    <color name="white" >#FFFFFF</color>
+    <color name="blue" >#0060C0</color>
+    <color name="white_2" >#0060C0</color>
+	<color name="orange">#FF8C00</color>
+</resources>
